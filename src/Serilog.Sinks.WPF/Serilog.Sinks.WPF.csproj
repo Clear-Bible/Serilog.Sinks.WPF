@@ -5,6 +5,8 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWPF>true</UseWPF>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+	<RepositoryUrl>https://github.com/Clear-Bible/Serilog.Sinks.WPF</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/Clear-Bible/Serilog.Sinks.WPF</PackageProjectUrl>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup>
